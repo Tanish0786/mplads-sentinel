@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-08-22T16:20:57.302956+00:00",
+  "source": {
+    "name": "MPLADS eSAKSHI Public Dashboard (MoSPI)",
+    "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+    "record_count": 543
+  },
+  "headline": {
+    "flagged_amount_inr": 3855035311.584247,
+    "flagged_amount_display": "₹385.50 Cr",
+    "flagged_count": 108,
+    "total_mps": 543,
+    "total_allocated_inr": 83062104294.53,
+    "total_allocated_display": "₹8306.21 Cr"
+  },
+  "severity_counts": {
+    "high": 14,
+    "medium": 45,
+    "low": 49
+  }
+}
