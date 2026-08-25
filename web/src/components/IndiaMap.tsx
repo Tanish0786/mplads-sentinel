@@ -73,9 +73,18 @@ export function IndiaMap({ values }: { values: Record<string, number> }) {
   }
   const max = Math.max(0, ...Array.from(pathIdToValue.values()).map((v) => v.value));
 
+  const [, , vbWidth, vbHeight] = INDIA_VIEWBOX.split(" ").map(Number);
+
   return (
-    <div>
-      <svg viewBox={INDIA_VIEWBOX} className="w-full" role="img" aria-label="Map of India shaded by anomalies flagged per state">
+    <div className="w-full">
+      <svg
+        viewBox={INDIA_VIEWBOX}
+        preserveAspectRatio="xMidYMid meet"
+        role="img"
+        aria-label="Map of India shaded by anomalies flagged per state"
+        className="block h-auto w-full max-w-full"
+        style={{ aspectRatio: `${vbWidth} / ${vbHeight}` }}
+      >
         {INDIA_STATE_PATHS.map((p) => {
           const match = pathIdToValue.get(p.id);
           const value = match?.value ?? 0;

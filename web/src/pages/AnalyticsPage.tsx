@@ -96,7 +96,7 @@ export function AnalyticsPage({
         <p className="mt-0.5 text-xs text-[var(--color-muted)]">
           Real state boundaries, shaded by real amount flagged per state.
         </p>
-        <div className="mx-auto mt-4 max-w-md">
+        <div className="mx-auto mt-4 w-full sm:max-w-sm md:max-w-md lg:max-w-lg">
           <IndiaMap
             values={Object.fromEntries(byState.map((r) => [r.state, r.amount]))}
           />
