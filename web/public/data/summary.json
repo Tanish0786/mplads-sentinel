@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-22T16:20:57.302956+00:00",
+  "generated_at": "2026-08-23T02:01:53.534503+00:00",
   "source": {
     "name": "MPLADS eSAKSHI Public Dashboard (MoSPI)",
     "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
     "record_count": 543
+  },
+  "thresholds": {
+    "noise_pct": 5.0,
+    "medium_pct": 15.0,
+    "high_pct": 50.0
+  },
+  "national_tiles": {
+    "works_recommended": {
+      "count": 102309,
+      "amount_inr": 55917110769.27,
+      "display": "5,591.71 Crore"
+    },
+    "works_sanctioned": {
+      "count": 77469,
+      "amount_inr": 40724463767.08,
+      "display": "4,072.45 Crore"
+    },
+    "works_completed": {
+      "count": 33656,
+      "amount_inr": 16356906237.73,
+      "display": "1,635.69 Crore"
+    },
+    "total_expenditure": {
+      "amount_inr": 26990541123.45,
+      "display": "2,699.05 Crore"
+    },
+    "amount_consented_calamity": {
+      "count": 12,
+      "amount_inr": 40567400.0,
+      "display": "4.06 Crore"
+    },
+    "tenure_label": "18th Lok Sabha"
   },
   "headline": {
     "flagged_amount_inr": 3855035311.584247,
@@ -17,5 +49,6 @@
     "high": 14,
     "medium": 45,
     "low": 49
-  }
+  },
+  "new_since_last_run": 0
 }

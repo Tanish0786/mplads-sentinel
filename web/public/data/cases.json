@@ -13,7 +13,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "EATALA RAJENDER's recorded allocation of ₹327,477,391 is 122.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-108",
@@ -29,7 +30,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "CHAVAN VASANTRAO BALWANTRAO's recorded allocation of ₹0 is 100.0% lower than a pro-rated expectation of ₹6,685,479, based on their 83-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2024-08-26T23:59:59"
+    "tenure_end": "2024-08-26T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-51",
@@ -45,7 +47,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Arvind Dharmapuri's recorded allocation of ₹281,396,355 is 91.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-57",
@@ -61,7 +64,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Asit Kumar Mal 's recorded allocation of ₹275,694,457 is 87.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-381",
@@ -77,7 +81,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Ramesh Chandappa Jigajinagi's recorded allocation of ₹269,500,000 is 83.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-413",
@@ -93,7 +98,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Saptagiri Sankar Ulaka's recorded allocation of ₹269,500,000 is 83.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-157",
@@ -109,7 +115,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "DR. RAJESH MISHRA's recorded allocation of ₹262,724,510 is 78.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-525",
@@ -125,7 +132,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "VARUN CHAUDHRY's recorded allocation of ₹255,454,264 is 73.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-324",
@@ -141,7 +149,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "PATEL UMESHBHAI BABUBHAI's recorded allocation of ₹245,063,957 is 66.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-474",
@@ -157,7 +166,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "SK NURUL ISLAM's recorded allocation of ₹49,000,000 is 66.7% lower than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-286",
@@ -173,7 +183,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Manoj Tiwari's recorded allocation of ₹225,843,858 is 53.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-12",
@@ -189,7 +200,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "AFZAL ANSARI's recorded allocation of ₹220,500,000 is 50.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "DUP-108",
@@ -205,7 +217,8 @@
     "flag_label": "Duplicate constituency record",
     "explanation": "NANDED (Maharashtra, Lok Sabha) has 2 separate MP allocation records on file — CHAVAN VASANTRAO BALWANTRAO, Ravindra Vasantrao Chavan — totalling ₹147,000,000. A constituency should have exactly one sitting member per house; this points to an unresolved mid-term replacement or a duplicate data entry.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2024-08-26T23:59:59"
+    "tenure_end": "2024-08-26T23:59:59",
+    "is_new": false
   },
   {
     "id": "DUP-390",
@@ -221,7 +234,8 @@
     "flag_label": "Duplicate constituency record",
     "explanation": "NANDED (Maharashtra, Lok Sabha) has 2 separate MP allocation records on file — CHAVAN VASANTRAO BALWANTRAO, Ravindra Vasantrao Chavan — totalling ₹147,000,000. A constituency should have exactly one sitting member per house; this points to an unresolved mid-term replacement or a duplicate data entry.",
     "tenure_start": "2024-11-28T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-523",
@@ -237,7 +251,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Vaithilingam Ve's recorded allocation of ₹209,368,972 is 42.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-375",
@@ -253,7 +268,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "RAM PRASAD CHAUDHARY's recorded allocation of ₹204,176,957 is 41.2% higher than a pro-rated expectation of ₹144,583,562, based on their 1795-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-04-06T00:00:00",
-    "tenure_end": "2029-03-06T23:59:59"
+    "tenure_end": "2029-03-06T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-240",
@@ -269,7 +285,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "KARTICK CHANDRA PAUL's recorded allocation of ₹202,677,987 is 37.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-99",
@@ -285,7 +302,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "C.M.RAMESH's recorded allocation of ₹202,531,656 is 37.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-25",
@@ -301,7 +319,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "AMBICA G LAKSHMINARAYANA VALMIKI's recorded allocation of ₹201,899,064 is 37.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-445",
@@ -317,7 +336,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Deepak (Dev) Adhikari 's recorded allocation of ₹200,747,364 is 36.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-508",
@@ -333,7 +353,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "TANGELLA UDAY SRINIVAS's recorded allocation of ₹199,417,887 is 35.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-71",
@@ -349,7 +370,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "BALWANT BASWANT WANKHADE's recorded allocation of ₹198,293,678 is 34.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-116",
@@ -365,7 +387,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "D Ravikumar 's recorded allocation of ₹197,598,306 is 34.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-511",
@@ -381,7 +404,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Thalikkottai Rajuthevar Baalu's recorded allocation of ₹196,905,535 is 33.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-33",
@@ -397,7 +421,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "ANDREW J. SYNGKON's recorded allocation of ₹98,000,000 is 33.3% lower than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-333",
@@ -413,7 +438,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Pradyut Bordoloi's recorded allocation of ₹98,000,000 is 33.3% lower than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-294",
@@ -429,7 +455,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "MOHITE PATIL DHAIRYASHEEL RAJSINH's recorded allocation of ₹195,613,602 is 33.1% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-46",
@@ -445,7 +472,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "ARUN BHARTI's recorded allocation of ₹194,924,621 is 32.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-478",
@@ -461,7 +489,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Smt Dimple Yadav's recorded allocation of ₹192,042,469 is 30.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-496",
@@ -477,7 +506,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "SUKANTA KUMAR PANIGRAHI's recorded allocation of ₹190,712,424 is 29.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-1",
@@ -493,7 +523,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "AASHTIKAR PATIL NAGESH BAPURAO's recorded allocation of ₹190,289,442 is 29.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-209",
@@ -509,7 +540,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "JITENDRA KUMAR DOHARE's recorded allocation of ₹188,747,306 is 28.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-11",
@@ -525,7 +557,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "ADV K FRANCIS GEORGE's recorded allocation of ₹188,722,256 is 28.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-176",
@@ -541,7 +574,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Ganesan Selvam's recorded allocation of ₹186,508,749 is 26.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-249",
@@ -557,7 +591,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "KONDA VISHWESHWAR REDDY's recorded allocation of ₹186,441,916 is 26.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-410",
@@ -573,7 +608,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "Sanjay Uttamrao Deshmukh's recorded allocation of ₹185,640,423 is 26.3% higher than a pro-rated expectation of ₹147,000,000, based on their 1825-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T00:00:00"
+    "tenure_end": "2029-06-03T00:00:00",
+    "is_new": false
   },
   {
     "id": "MP-494",
@@ -589,7 +625,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "SUDHAKAR SINGH's recorded allocation of ₹185,211,957 is 26.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-317",
@@ -605,7 +642,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Omprakash Bhupalsinh Alias Pawan Rajenimbalkar's recorded allocation of ₹184,758,519 is 25.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-271",
@@ -621,7 +659,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "MAHIMA KUMARI MEWAR's recorded allocation of ₹183,892,143 is 25.1% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-399",
@@ -637,7 +676,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "S. Jagathrakshakan's recorded allocation of ₹180,589,332 is 22.8% higher than a pro-rated expectation of ₹147,000,000, based on their 1825-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T00:00:00"
+    "tenure_end": "2029-06-03T00:00:00",
+    "is_new": false
   },
   {
     "id": "MP-404",
@@ -653,7 +693,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "SANATAN PANDEY's recorded allocation of ₹180,420,041 is 22.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-265",
@@ -669,7 +710,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Maddila Gurumoorthy's recorded allocation of ₹180,399,007 is 22.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-61",
@@ -685,7 +727,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "AZAD KIRTI JHA's recorded allocation of ₹179,658,400 is 22.2% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-362",
@@ -701,7 +744,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "RAJEEV BHARDWAJ's recorded allocation of ₹179,388,967 is 22.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-289",
@@ -717,7 +761,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Midhun Reddy's recorded allocation of ₹178,951,477 is 21.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-280",
@@ -733,7 +778,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "MANISH TEWARI's recorded allocation of ₹178,351,444 is 21.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-274",
@@ -749,7 +795,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "MALAIYARASAN D's recorded allocation of ₹176,686,299 is 20.2% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-259",
@@ -765,7 +812,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Lavu Sri Krishna Devarayalu's recorded allocation of ₹174,009,663 is 18.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-450",
@@ -781,7 +829,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Jual Oram's recorded allocation of ₹173,096,757 is 17.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-408",
@@ -797,7 +846,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Sanjay Kumar Bandi's recorded allocation of ₹172,775,317 is 17.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-465",
@@ -813,7 +863,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Suresh Kodikunnil's recorded allocation of ₹172,429,519 is 17.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-497",
@@ -829,7 +880,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "SUKHDEO BHAGAT's recorded allocation of ₹171,821,957 is 16.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-225",
@@ -845,7 +897,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Kalanidhi Veeraswamy's recorded allocation of ₹171,500,000 is 16.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-248",
@@ -861,7 +914,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "KISHORI LAL's recorded allocation of ₹171,500,000 is 16.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-415",
@@ -877,7 +931,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Sasikanth Senthil's recorded allocation of ₹171,500,000 is 16.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-467",
@@ -893,7 +948,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri vijayakumar Vasanth's recorded allocation of ₹171,500,000 is 16.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-458",
@@ -909,7 +965,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri NK Premachandran's recorded allocation of ₹171,477,994 is 16.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-244",
@@ -925,7 +982,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Kinjarapu Ram Mohan Naidu's recorded allocation of ₹171,200,630 is 16.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-151",
@@ -941,7 +999,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "DR. M.P ABDUSSAMAD SAMADANI's recorded allocation of ₹170,434,031 is 15.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-199",
@@ -957,7 +1016,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "JAGADISH CHANDRA BARMA BASUNIA's recorded allocation of ₹168,604,641 is 14.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-513",
@@ -973,7 +1033,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "THARANIVENTHAN M S's recorded allocation of ₹168,337,124 is 14.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-314",
@@ -989,7 +1050,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Nitin Jairam Gadkari's recorded allocation of ₹168,195,086 is 14.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-254",
@@ -1005,7 +1067,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Krishna Prasad Tenneti's recorded allocation of ₹167,796,849 is 14.1% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-323",
@@ -1021,7 +1084,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Parvatagouda Chandanagouda Gaddigoudar's recorded allocation of ₹167,541,747 is 14.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-281",
@@ -1037,7 +1101,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "MANJU SHARMA's recorded allocation of ₹167,082,901 is 13.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-39",
@@ -1053,7 +1118,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Annpurna Devi 's recorded allocation of ₹166,665,932 is 13.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-67",
@@ -1069,7 +1135,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "BAJRANG MANOHAR SONWANE's recorded allocation of ₹165,899,107 is 12.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-27",
@@ -1085,7 +1152,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "AMRARAM's recorded allocation of ₹165,691,544 is 12.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-491",
@@ -1101,7 +1169,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Sribharat MathuKumli's recorded allocation of ₹164,841,922 is 12.1% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-85",
@@ -1117,7 +1186,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "BHOJRAJ NAG's recorded allocation of ₹164,672,734 is 12.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-277",
@@ -1133,7 +1203,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "MANI. A.'s recorded allocation of ₹164,515,071 is 11.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-316",
@@ -1149,7 +1220,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Om Birla's recorded allocation of ₹163,906,957 is 11.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-167",
@@ -1165,7 +1237,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "E.T. MOHAMMED BASHEER's recorded allocation of ₹163,895,872 is 11.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-124",
@@ -1181,7 +1254,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "DEVESH CHANDRA THAKUR's recorded allocation of ₹163,809,205 is 11.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-357",
@@ -1197,7 +1271,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "RAHUL SINGH LODHI's recorded allocation of ₹163,058,785 is 10.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-257",
@@ -1213,7 +1288,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "KUNDURU RAGHUVEER's recorded allocation of ₹162,952,022 is 10.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-390",
@@ -1229,7 +1305,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "Ravindra Vasantrao Chavan's recorded allocation of ₹147,000,000 is 10.7% higher than a pro-rated expectation of ₹132,743,014, based on their 1648-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-11-28T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-521",
@@ -1245,7 +1322,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "V S Matheswaran's recorded allocation of ₹162,539,930 is 10.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-169",
@@ -1261,7 +1339,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "ESWARASAMY K's recorded allocation of ₹162,315,106 is 10.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-448",
@@ -1277,7 +1356,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Hibi Eden's recorded allocation of ₹162,177,260 is 10.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-457",
@@ -1293,7 +1373,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Narendra Modi's recorded allocation of ₹162,070,276 is 10.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-292",
@@ -1309,7 +1390,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "Mohamed Haneefa's recorded allocation of ₹161,114,542 is 9.6% higher than a pro-rated expectation of ₹147,000,000, based on their 1825-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T00:00:00"
+    "tenure_end": "2029-06-03T00:00:00",
+    "is_new": false
   },
   {
     "id": "MP-202",
@@ -1325,7 +1407,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Jagdambika Pal's recorded allocation of ₹160,643,957 is 9.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-62",
@@ -1341,7 +1424,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "B K PARTHASARATHI's recorded allocation of ₹160,491,894 is 9.2% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-135",
@@ -1357,7 +1441,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "DINESHBHAI MAKWANA's recorded allocation of ₹160,434,965 is 9.1% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-115",
@@ -1373,7 +1458,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "D M Kathir Anand's recorded allocation of ₹160,196,941 is 9.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-378",
@@ -1389,7 +1475,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "RAMASHANKAR RAJBHAR's recorded allocation of ₹160,056,927 is 8.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-76",
@@ -1405,7 +1492,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "BASTIPATI NAGARAJU PANCHALINGALA's recorded allocation of ₹159,998,515 is 8.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-318",
@@ -1421,7 +1509,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "P C Mohan's recorded allocation of ₹159,995,711 is 8.8% higher than a pro-rated expectation of ₹147,000,000, based on their 1825-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T00:00:00"
+    "tenure_end": "2029-06-03T00:00:00",
+    "is_new": false
   },
   {
     "id": "MP-296",
@@ -1437,7 +1526,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Ms Mahua Moitra's recorded allocation of ₹159,865,046 is 8.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-479",
@@ -1453,7 +1543,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Smt Harsimrat Kaur Badal's recorded allocation of ₹159,775,982 is 8.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-138",
@@ -1469,7 +1560,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Dr Chandra Sekhar Pemmasani's recorded allocation of ₹159,774,113 is 8.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-354",
@@ -1485,7 +1577,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "RADHE SHYAM RATHIYA's recorded allocation of ₹159,706,972 is 8.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-155",
@@ -1501,7 +1594,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "DR. PRASHANT YADAORAO PADOLE's recorded allocation of ₹159,680,283 is 8.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-453",
@@ -1517,7 +1611,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Karti P Chidambaram 's recorded allocation of ₹159,049,284 is 8.2% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-343",
@@ -1533,7 +1628,8 @@
     "flag_label": "Pro-rata mismatch",
     "explanation": "Priyanka Gandhi Vadra's recorded allocation of ₹122,500,000 is 8.0% lower than a pro-rated expectation of ₹133,145,753, based on their 1653-day tenure versus the standard 1825-day Lok Sabha term (baseline ₹147,000,000). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-11-23T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-98",
@@ -1549,7 +1645,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "C R Patil's recorded allocation of ₹158,532,494 is 7.8% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-536",
@@ -1565,7 +1662,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Vishnu Dayal Ram's recorded allocation of ₹158,176,083 is 7.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-146",
@@ -1581,7 +1679,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Dr Sukanta Majumdar 's recorded allocation of ₹157,085,365 is 6.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-460",
@@ -1597,7 +1696,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Shri Rajmohan Unnithan 's recorded allocation of ₹156,754,633 is 6.6% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-540",
@@ -1613,7 +1713,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Y S Avinash Reddy's recorded allocation of ₹156,430,260 is 6.4% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-188",
@@ -1629,7 +1730,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Gyaneshwar Patil's recorded allocation of ₹155,690,685 is 5.9% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-58",
@@ -1645,7 +1747,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "ATUL GARG's recorded allocation of ₹155,336,470 is 5.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-502",
@@ -1661,7 +1764,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "SURENDRA PRASAD YADAV's recorded allocation of ₹155,325,714 is 5.7% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-216",
@@ -1677,7 +1781,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Jyotsna Charandas Mahant 's recorded allocation of ₹155,153,738 is 5.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-396",
@@ -1693,7 +1798,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "RUDRA NARAYAN PANY's recorded allocation of ₹155,013,957 is 5.5% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-370",
@@ -1709,7 +1815,8 @@
     "flag_label": "Allocation outlier",
     "explanation": "Rajnath Singh's recorded allocation of ₹154,808,797 is 5.3% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   },
   {
     "id": "MP-82",
@@ -1725,6 +1832,7 @@
     "flag_label": "Allocation outlier",
     "explanation": "BHARTI PARDHI's recorded allocation of ₹154,398,389 is 5.0% higher than the Lok Sabha baseline of ₹147,000,000 for members with an identical tenure window (04 Jun 2024–03 Jun 2029). The tenure dates on record do not account for this gap.",
     "tenure_start": "2024-06-04T00:00:00",
-    "tenure_end": "2029-06-03T23:59:59"
+    "tenure_end": "2029-06-03T23:59:59",
+    "is_new": false
   }
 ]

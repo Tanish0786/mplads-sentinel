@@ -6,7 +6,15 @@
   --color-panel: #ffffff;
   --color-border: #d8d6cd;
   --color-muted: #5b6068;
-  --color-accent: #1c3d6b;
+  --color-accent: #0f6e52;
+
+  /* Brand: cool teal-emerald, kept visually distinct from severity-low's
+     warmer olive green so the two never read as the same signal. */
+  --color-brand: #0f6e52;
+  --color-brand-dark: #0a4a38;
+  --color-brand-light: #e4f1ec;
+
+  /* Severity is semantic and never doubles as brand color. */
   --color-severity-high: #a4231d;
   --color-severity-medium: #b3660a;
   --color-severity-low: #4a7a3a;
