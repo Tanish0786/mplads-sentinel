@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import type { FlaggedCase, MPRecord } from "../types";
-import { IndiaGridMap } from "../components/IndiaGridMap";
+import { IndiaMap } from "../components/IndiaMap";
 import { KpiCard } from "../components/KpiCard";
 
 export function AnalyticsPage({
@@ -94,12 +94,10 @@ export function AnalyticsPage({
           Anomaly map by state
         </h2>
         <p className="mt-0.5 text-xs text-[var(--color-muted)]">
-          A grid cartogram (states placed at their approximate real
-          position, not literal coastlines) shaded by real amount flagged
-          per state.
+          Real state boundaries, shaded by real amount flagged per state.
         </p>
-        <div className="mx-auto mt-4 max-w-lg">
-          <IndiaGridMap
+        <div className="mx-auto mt-4 max-w-md">
+          <IndiaMap
             values={Object.fromEntries(byState.map((r) => [r.state, r.amount]))}
           />
         </div>

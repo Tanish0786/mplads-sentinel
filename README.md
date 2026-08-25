@@ -33,6 +33,13 @@ web/
   public/data/    # summary.json + cases.json consumed by the frontend
 ```
 
+## Attribution
+
+The India state map on the Analytics page uses real state boundary paths
+from [`@svg-maps/india`](https://www.npmjs.com/package/@svg-maps/india)
+(github.com/VictorCazanave/svg-maps), licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ## Running it
 
 ```bash
